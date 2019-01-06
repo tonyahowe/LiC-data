@@ -5,15 +5,7 @@
             <titleStmt>
                 <title type="main">The Rambler No. 4</title>
                 <author>
-                    <person type="lccn" key="n78095825"><surname>Johnson</surname>, <forename>Samuel</forename></person>
-                        <birth when="1709-09-18">18 September 1709 [O.S. 7 September]</birth>
-                        <death when="1784-12-13">13 December 1784</death>
-                        <occupation>Lexicographer</occupation>
-                        <occupation>Essayist</occupation>
-                        <occupation>Critic</occupation>
-                        <occupation>Writer</occupation>
-                        <trait type="Marital Status">Married</trait>
-                        <nationality>English</nationality>
+                    <persName type="lccn" key="n78095825"><surname>Johnson</surname><forename>Samuel</forename></persName>
                 </author>
                 <editor>
                     <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
@@ -43,11 +35,6 @@
                         Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported
                         License </licence>
                 </availability>
-                <textDesc>
-                    <constitution status="incomplete">This text is incomplete and reqiures further
-                        correction, annotation, and standardization.</constitution>
-                </textDesc>
-                
             </publicationStmt>
             <sourceDesc>
                 <biblStruct>
@@ -57,7 +44,7 @@
                     </analytic>
                     <monogr>
                         <author>
-                            <person><surname>Johnson</surname>, <forename>Samuel</forename> 1709-1784</person>
+                            <persName><surname>Johnson</surname>, <forename>Samuel</forename> 1709-1784</persName>
                         </author>
                         <title>The Rambler</title>
                         <imprint>
@@ -126,6 +113,7 @@
                     <change when="2018-06-05" who="#TH">First complete XML version</change>
                     <change when="2018-10-15" who="#TH">Correction against first edition page images</change>
                     <change when="2019-01-02" who="#TH">Update note numbers</change>
+                    <change when="2019-01-06" who="#TH">Update to Scaliger note; printers note</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -164,7 +152,8 @@
                      nor lodge them in imaginary Castles. </p>
             <p>I REMEMBER a Remark made by 
                     <hi rend="italic">
-                        Scaliger<ref target="a005" corresp="n005"/><note xml:id="n005" target="a005" resp="TH">Likely a reference to <ref target="https://www.britannica.com/biography/Joseph-Justus-Scaliger">Joseph Justus Scaliger</ref>, a Dutch philologist and historian of the Renaissance. Identification uncertain.</note>
+                        Scaliger<ref target="a005" corresp="n005"/><note xml:id="n005" target="a005" resp="TH"><ref target="https://www.britannica.com/biography/Julius-Caesar-Scaliger">Julius Caesar Scaliger</ref> (1484-1558) was a Franco-Italian humanist polymath most widely-known for his <hi rend="italics">Poetices Libri Septem</hi> (1561). For more information on the <hi rend="italic">Poetices</hi>, see <ref target="https://www.jstor.org/stable/434244">Bernard Weinberg's "Scaliger versus Aristotle on Poetics" (1942)</ref> and <ref target="https://www.jstor.org/stable/3654274">this review by David Marsh of a new edition and German translation of the whole</ref>. Scaliger critiques the poetry of Italian humanist <ref target="https://www.britannica.com/biography/Giovanni-Pontano">Giovanni Pontano (1429-1503).</ref>
+                             </note>
                 </hi> upon <hi rend="italic">Potanus</hi>, that all his Writings are filled with
                      Images, and that <pb n="20" facs="images/020.jpg"/> if you take from him his Lillies and his Roses, his
                      Satyrs and his Dryads, he will have nothing left that can be called Poetry. In
@@ -176,7 +165,7 @@
                   but we cannot wonder that, while Readers could
                      be procured, the Authors were willing to continue it: For when a Man had, by Practice, gained some Fluency of Language,
                      he had no farther Care than to retire to
-                        his Closet, let loose his Invention, and heat his Mind with Incredibilities; and a Book
+                     his Closet<ref target="a005a" corresp="n005a"/><note xml:id="n005a" target="a005a" resp="TH"><graphic url="https://english.illinoisstate.edu/digitaldefoe/teaching/bobker/1GreenCloset.png" width="300px"/>In the eighteenth century, a "closet" was a small office or private room leading off of a bedroom; here, individuals would conduct business, write letters, read, or converse with close acquaintances. It was not used to store clothes. For more information, see <hi rend="italic">Daily Life in 18th-Century England</hi> (85-86), or <ref target="https://english.illinoisstate.edu/digitaldefoe/teaching/bobker/overview.html">Danielle Bobker's "Literature and Culture of the Closet in the Eighteenth Century,"</ref> from which site the accompanying image, showing the Green Closet at Frogmore, has been drawn.</note>, let loose his Invention, and heat his Mind with Incredibilities; and a Book
                      was thus produced without Fear of Criticism, without the Toil of Study, without Knowledge of Nature,
                         or Acquaintance with Life.
                 
@@ -192,14 +181,14 @@
                     <quote xml:lang="la">
                         <hi rend="italic">plus oneris quantum veniae minus, </hi><ref target="a007" corresp="n007"/><note xml:id="n007" target="a007" resp="TH"><ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0539%3Abook%3D2%3Apoem%3D1">In Horace's <hi rend="italic">Epistles</hi> 2.1</ref>, this quote appears at line 170. In this epistle to Augustus, Horace is mounting a defense of contemporary poetry and decrying the poor taste of the public. In particular he argues that though comic subjects are thought easier to write, they are actually more challenging than tragic subjects because readers give them less "indulgence." Johnson will put this "indulgence" in terms of the readers' familiarity with the more common subjects of comedy (Perseus Project).</note>
                     </quote>
-                    <cit type="translation" xml:lang="en"> little
-                        Indulgence, and therefore more Difficulty.</cit>
+                    <cit type="translation" xml:lang="en"><quote> little
+                        Indulgence, and therefore more Difficulty.</quote></cit>
                 </cit>
                They are engaged in Portraits of which every one
                      knows the Original, and can detect any Deviation from Exactness of
                      Resemblance. Other Writings are safe, except from the Malice of
                   Learning; but these are in danger from every
-                  common Reader<ref target="a008" corresp="#n008"/><note xml:id="n008" target="a008" resp="TH">\Johnson alludes here to a story from <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:35.36">Pliny the Elder's <hi rend="italic">Natural History</hi> (35.36)</ref>.</note>; as the Slipper ill
+                  common Reader<ref target="a008" corresp="#n008"/><note xml:id="n008" target="a008" resp="TH">Johnson alludes here to a story from <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:35.36">Pliny the Elder's <hi rend="italic">Natural History</hi> (35.36)</ref>.</note>; as the Slipper ill
                      executed was censured by a Shoemaker who happened to stop in his way at the
                     <hi rend="italic">
                     Venus
@@ -251,7 +240,7 @@
                      with more Efficacy than Axioms and Definitions. 
                      But if the Power of Example is so great, as to take
                      Possession of the Memory by a kind of Violence, and produce Effects almost
-                     without the Intervention of the Will,<ref target="a014" corresp="n014"/><note xml:id="n014" target="a014" resp="TH"> Here Johnson argues that representations which are rendered in so familiar and realistic a manner are especially dangerous to untutored minds because they seem to be truth rather than fiction; he therefore cautions that authors provide the best models for behavior and the cultivation of the mind. Johnson references eighteenth-century thought about the power of the imagination to affect the body regardless of the will, like that discussed by <ref target="https://ebooks.adelaide.edu.au/m/gne/michel/essays/complete.html#book1.20">Michele de Montaigne in "Of the Power of the Imagination."</ref> For information about the power of the female imagination to create monstrous beings, see, among other works, <ref target="https://books.google.com/books?id=_nQredXpwaUC">>Marie Hélène Huet's <hi rend="italic">Monstrous Imagination</hi> (1993)</ref>.</note> Care ought 
+                     without the Intervention of the Will,<ref target="a014" corresp="n014"/><note xml:id="n014" target="a014" resp="TH"> Here Johnson argues that representations which are rendered in so familiar and realistic a manner are especially dangerous to untutored minds because they seem to be truth rather than fiction; he therefore cautions that authors provide the best models for behavior and the cultivation of the mind. Johnson references eighteenth-century thought about the power of the imagination to affect the body regardless of the will, like that discussed by <ref target="https://ebooks.adelaide.edu.au/m/gne/michel/essays/complete.html#book1.20">Michele de Montaigne in "Of the Power of the Imagination."</ref> For information about the power of the female imagination to create monstrous beings, see, among other works, <ref target="https://books.google.com/books?id=_nQredXpwaUC">Marie Hélène Huet's <hi rend="italic">Monstrous Imagination</hi> (1993)</ref>.</note> Care ought 
                          <pb n="22" facs="images/022.jpg"/>
                          to be taken that, when the
                      Choice is unrestrained, the best Examples only should be exhibited; and that
@@ -315,7 +304,7 @@
                      Probability.
                      Thus Men are observed by <hi rend="italic">Swift</hi><ref target="a017" corresp="n017"/><note xml:id="n017" target="a017" resp="TH"><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/43/Gullivers_travels.jpg"/>Jonathan Swift, an Anglo-Irish satiric author of the early 18th century, is most well-known today for writing <hi rend="italic">Gulliver's Travels</hi>. The title page to the first edition of <hi rend="italic">Gulliver's Travels</hi>, reproduced from Wikimedia Commons, is above. For more information on Swift, see <ref target="https://www.tcd.ie/trinitywriters/writers/jonathan-swift/">this biographical essay by Ian Campbell Ross (2016)</ref>, and readers may also be interested in <ref target="https://www.tcd.ie/library/exhibitions/swift/">this 2017 online exhibition about Swift from the Library of Trinity College, Dublin</ref>.</note> to be 
                    grateful in the same Degree as they are
-                   resentful.<ref target="a018" corresp="n018"/><note xml:id="n018" target="a018" resp="TH">From the second volume of the <hi rend="italic">Miscellanies</hi>, compiled by Jonathan Swift and Alexander Pope, this particular quotation is from <ref target="http://estc.bl.uk/T39472">Thoughts on Various Subjects,"</ref> a collection of witty aphorisms by Pope and contained in the second volume. </note>
+                   resentful.<ref target="a018" corresp="n018"/><note xml:id="n018" target="a018" resp="TH">From the second volume of the <hi rend="italic">Miscellanies</hi>, compiled by Jonathan Swift and Alexander Pope, this particular quotation is from <ref target="http://estc.bl.uk/T39472">Thoughts on Various Subjects,"</ref> a collection of witty aphorisms by Pope and contained in the second volume.</note>
                 This Principle, with others of the same
                      Kind, supposes Man to act from a brute Impulse, and persue a certain Degree of
                      Inclination, without any Choice of the Object; for, otherwise, though it
@@ -361,7 +350,7 @@
         </body>
         <back>
         <p><hi rend="italic">LONDON:</hi></p>
-        <p>Printed for J. PAYNE, and J. BOQUET, in Pater-noster-Row;</p>
+            <p>Printed for J. PAYNE, and J. BOQUET, in Pater-noster-Row<ref target="a022" corresp="n022"/><note xml:id="n022" target="a020" resp="TH">Publishers John Payne and Joseph Boquet joined forces at mid-century, working from the center of the English book trade in Paternoster Row. The pair published <hi rend="italic">The Rambler</hi> from 1750, bringing them much profit. It is said that the publishers offered Johnson the astonishing sum of 2 guineas per issue. For a brief overview of the printers, see footnote 2 to a 1750 letter between Samuel Johnson and Charlotte Lennox (4), discussing the publication of her <hi rend="italic">Poems</hi>, in <ref target="https://books.google.com/books?id=U_FEAwAAQBAJ">Norbert Schürer's <hi rend="italic">Charlotte Lennox: Correspondence and Miscellaneous Documents</hi></ref>.</note>;</p>
         <p>where Letters for the RAMBLER are received.</p>
         </back>
     </text>
