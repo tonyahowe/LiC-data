@@ -4,40 +4,33 @@
          <titleStmt>
             <title type="main">Fantomina; or, Love in a Maze</title>
             <author>
-               <persName type="lccn" key="n79008228"><surname>Haywood</surname>,
-                     <forename>Eliza</forename> Fowler, 1693?-1756</persName>
+               <persName xml:id="xxx" type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
             </author>
-            <editor>
-               <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
+            <editor xml:id="TH"><persName type="orcid" key="0000-0002-7400-4093">Howe, Tonya</persName>                
             </editor>
             <respStmt>
                <resp>Transcription, correction, editorial commentary, and markup</resp>
-               <name>Students of Marymount University</name>
-               <name/>
-               <name/>
+               <name xml:id="MUstudstaff">Students and Staff of Marymount University</name>
+               <name xml:id="AF">Freeland, Ally</name>
             </respStmt>
+            <sponsor></sponsor>
+            <funder>National Endowment for the Humanities</funder>
          </titleStmt>
          <publicationStmt>
             <publisher>Literature in Context</publisher>
-            <distributor>
-               <orgName>Novels in Context</orgName>
-               <address>
-                  <addrLine>Marymount University Department of Literature and Languages</addrLine>
-                  <addrLine>2807 N. Glebe Road</addrLine>
-                  <addrLine>Arlington, VA </addrLine>
-                  <addrLine>22207</addrLine>
-               </address>
-               <email>thowe@marymount.edu</email>
-            </distributor>
-            <authority>
-               <idno>hay-fan</idno>
-            </authority>
+            <address>
+               <addrLine>Marymount University Department of Literature and Languages</addrLine>
+               <addrLine>2807 N. Glebe Road</addrLine>
+               <addrLine>Arlington, VA </addrLine>
+               <addrLine>22207</addrLine>
+               <addrLine>thowe@marymount.edu</addrLine>
+               <addrLine>lic.open.anthology@gmail.com</addrLine>
+            </address>
             <availability status="free">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by
                   Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported
                   License </licence>
             </availability>
-            <date when="2018-09-02"/>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
@@ -46,8 +39,7 @@
                </analytic>
                <monogr>
                   <author>
-                     <persName type="lccn" key="n79008228"><surname>Haywood</surname>, <forename>Eliza</forename> Fowler,
-                        1693?-1756</persName>
+                     <persName xml:id="xxx" type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
                   </author>
                   <title>Secret Histories, Novels, and Poems</title>
                   <imprint>
@@ -55,14 +47,16 @@
                         <placeName type="tgn" key="7011781">London</placeName>
                      </pubPlace>
                      <publisher>Printed for Dan Browne, jun. at the Black Swan without
-                        Temple-Bar;</publisher>
-                     <publisher>and S. Chapman at the in Angel Pallmall.</publisher>
+                        Temple-Bar</publisher>
+                     <publisher>S. Chapman at the Angel in Pallmall.</publisher>
                      <date when="1725">1725</date>
                      <note source="ESTC">Each section has a separate titlepage. The titlepage of the
                         first volume only is in red and black. The third volume was printed by
                         Samuel Aris on the evidence of the ornaments.</note>
                      <note>Page images are drawn from the second edition in ECCO.</note>
-                     <note>For more information about this item, see the ESTC entry at <ref target="http://estc.bl.uk/T66936">http://estc.bl.uk/T66936</ref>.</note>
+                     <note>For more information about this item, see the ESTC entry at 
+                        <ref target="http://estc.bl.uk/T66936">http://estc.bl.uk/T66936</ref>.
+                     </note>
                   </imprint>
                   <imprint>
                      <pubPlace>Philadelphia, PA</pubPlace>
@@ -78,6 +72,29 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <textDesc n="novella">
+           <channel mode="w">print</channel>
+           <constitution type="single"/>
+           <derivation type="original"/>
+           <domain></domain>
+           <factuality type="fiction"/>
+           <interaction></interaction>
+           <preparedness type="prepared"/>
+           <purpose type="entertain" degree="high"/>
+           <purpose type="inform" degree="medium"/>
+        </textDesc>
+        <settingDesc>
+           <setting>
+              <name>London, England</name>
+              <name>Bath, England</name>
+              <time>Early 18th Century</time>
+           </setting>
+        </settingDesc>
+      </profileDesc>
       <encodingDesc>
          <projectDesc>
             <p>This text is prepared as part of the <hi rend="italic">Literature in Context</hi>
@@ -133,9 +150,10 @@
          </classDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2018-10-02" who="#TH">First pass XML file</change>
-         <change when="2019-01-02" who="#TH">Added note placeholders</change>
-         <change when="2019-01-05" who="#TH">Finished notes; updated teiHeader</change>
+         <change when="2018-10-02" who="TH">First pass XML file</change>
+         <change when="2019-01-02" who="TH">Added note placeholders</change>
+         <change when="2019-01-05" who="TH">Finished notes; updated teiHeader</change>
+         <change when="2019-01-07" who="TH">Added profileDesc to teiHeader</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -772,8 +790,8 @@
                   /><note xml:id="n041" target="a041" type="editorial" resp="TH"><graphic
                      width="300px"
                      url="http://www.historicalportraits.co.uk/Artworkimages/Zincke%20Lady%20Strange%203188%20Z.jpg"
-                  />In this enamel miniature portrait c.1710, <ref
-                     target="http://www.historicalportraits.co.uk/Gallery.asp?Page=Item&ItemID=1766&Desc=Henrietta-Maria,-Lady-Ashburnham-|-Christian-Friedrich-Zincke"
+                  />In this enamel miniature portrait c.1710, via Philip Mould and Company,<ref
+                     target="http://www.historicalportraits.co.uk/"
                      >the artist Christian Zincke has depicted Henrietta Maria, Lady Ashburnham, in
                      first mourning for her husband; Henrietta Maria is twenty-three in this
                      portrait</ref>. First or deep mourning lasted approximately three months after
@@ -955,8 +973,9 @@
                      therefore Adieu till then sweet lovely Mistress of the Soul and all the
                      Faculties of</p>
                   <closer>
-                     <p>Your most faithful,</p>
-                     <p>BEAUPLAISIR</p></closer>. </body>
+                     Your most faithful,<lb/>
+                    BEAUPLAISIR.</closer> 
+               </body>
             </floatingText>
 
             <p> The other was in this Manner:</p>
@@ -978,10 +997,10 @@
                      languish'd to renew those Blessings I am permitted to enjoy in your Society,
                      you would rather pity than condemn</p>
 
-                  <closer><p> Your ever faithful,</p>
-                     <p>BEAUPLAISIR.</p></closer>
-                  <p>
-                     <pb n="277" facs="images/HF-277.jpg"/> P.S. I fear I cannot see you till
+                  <closer>Your ever faithful,<lb/>
+                     BEAUPLAISIR.</closer>
+                
+                     <pb n="277" facs="images/HF-277.jpg"/><p>P.S. I fear I cannot see you till
                      To-morrow; some Business has unluckily fallen out that will engross my Hours
                      till then. – Once more, my Dear, Adieu.</p>
 
