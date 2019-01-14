@@ -39,6 +39,7 @@
                </analytic>
                <monogr>
                   <author>
+                     <persName type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
                   </author>
                   <title>Secret Histories, Novels, and Poems</title>
                   <imprint>
@@ -166,6 +167,7 @@
             <titlePart>LOVE in a Maze.<lb/></titlePart>
             <titlePart>BEING A<lb/></titlePart>
             <titlePart>Secret History<ref target="a001" corresp="n001"/><note xml:id="n001"
+               target="a001" type="editorial" resp="TH">While there are many critical understandings of the secret history in literature, <ref target="https://books.google.com/books?id=h3iJDgAAQBAJ">as the essays in <hi rend="italic">The Secret History in Literature: 1660-1820</hi> (2017)</ref>, the genre usually offers a glimpse into the secret lives of public individuals. In the amatory tradition of <hi rend="italic">Fantomina</hi>, this "private" side is typically filled with sexual or political intrigue.</note><lb/></titlePart>
             <titlePart>OF AN<lb/></titlePart>
             <titlePart>AMOUR<lb/></titlePart>
             <titlePart>Between Two<lb/></titlePart>
@@ -996,7 +998,13 @@
                      languish'd to renew those Blessings I am permitted to enjoy in your Society,
                      you would rather pity than condemn</p>
 
+                  <closer>Your ever faithful,
+                     <signed>BEAUPLAISIR.</signed></closer>
+               
+                     <pb n="277" facs="images/HF-277.jpg"/>
+               <postscript><p>P.S. I fear I cannot see you till
                      To-morrow; some Business has unluckily fallen out that will engross my Hours
+                     till then. – Once more, my Dear, Adieu.</p></postscript>
                </body>
             </floatingText>
 
@@ -1108,6 +1116,7 @@
                      target="http://blogs.getty.edu/iris/physiognomy-the-beautiful-pseudoscience/"
                      >"Physiognomy, the Beautiful Pseudo-Science"</ref>. For a fuller scholarly
                   assessment, see <ref
+                     target="https://www.tandfonline.com/doi/full/10.1080/14780038.2017.1290998"
                      >Kathryn Woods's "‘Facing’ Identity in a ‘Faceless’ Society: Physiognomy,
                      Facial Appearance and Identity Perception in Eighteenth-Century
                   London"</ref>.</note> she thought most proper for her Purpose, she beckon'd to
@@ -1187,6 +1196,7 @@
 
             <floatingText>
                <body>
+                  <opener>To the All-conquering BEAUPLAISIR.</opener>
 
                   <p> I imagine not that 'tis a new Thing to you, to be told, you are the greatest
                      Charm in Nature to our Sex: I shall therefore, not to fill up my Letter with
@@ -1209,6 +1219,9 @@
                      Measures to commence a Friendship with you, is neither Old, nor Deform'd. Till
                      then I am,</p>
 
+                  <closer>Yours, 
+                     <signed>INCOGNITA.</signed><ref target="a057" corresp="n057"/><note xml:id="n057"
+                           target="a057" type="editorial" resp="TH">Incognita is a feminine form of the Italian "incognito," meaning one who is unknown or in disguise (OED).</note></closer>
                </body>
             </floatingText>
 
@@ -1251,6 +1264,8 @@
                      the blissful Moment, which is to throw me at your Feet, and give me an
                      Opportunity of convincing you that I am,</p>
 
+                  <closer>Your everlasting Slave, 
+                     <signed>BEAUPLAISIR.</signed></closer>
                </body>
             </floatingText>
 
@@ -1423,7 +1438,9 @@
                   petticoat, <ref target="http://collections.vam.ac.uk/item/O1318194/hoop-unknown/"
                      >an example of which can be seen in the Victoria and Albert Museum's digital
                      collections</ref>. By 1750, the hoop petticoat could be as large as 1.5 meters
+                  in diameter, and with the addition of panniers, court dress like
                      that which Fantomina is described as wearing--and which the included image
+                     shows--could be notably voluminous.</note>, however, her Bigness was not
                taken notice of, and, perhaps, she would not have been suspected till the Time of her
                going into the Country, where her Mother design'd to send her, and from whence she
                intended to make her escape to some Place where she might be delivered with Secrecy,
