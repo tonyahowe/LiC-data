@@ -4,14 +4,13 @@
          <titleStmt>
             <title type="main">Fantomina; or, Love in a Maze</title>
             <author>
-               <persName xml:id="xxx" type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
+               <persName xml:id="xxx" type="lccn" key="n79008228"><forename>Eliza</forename> <surname>Haywood</surname></persName>
             </author>
             <editor xml:id="TH"><persName type="orcid" key="0000-0002-7400-4093">Howe, Tonya</persName>                
             </editor>
             <respStmt>
                <resp>Transcription, correction, editorial commentary, and markup</resp>
                <name xml:id="MUstudstaff">Students and Staff of Marymount University</name>
-               <name xml:id="AF">Freeland, Ally</name>
             </respStmt>
             <sponsor></sponsor>
             <funder>National Endowment for the Humanities</funder>
@@ -39,6 +38,7 @@
                </analytic>
                <monogr>
                   <author>
+                     <persName type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
                   </author>
                   <title>Secret Histories, Novels, and Poems</title>
                   <imprint>
@@ -159,21 +159,21 @@
    </teiHeader>
    <text>
       <front>
-         <pb n="[TP]" facs="images/HF-256.jpg"/>
+         <pb n="[TP]" />
          <titlePage>
             <titlePart>FANTOMINA:<lb/></titlePart>
             <titlePart>OR,<lb/></titlePart>
             <titlePart>LOVE in a Maze.<lb/></titlePart>
             <titlePart>BEING A<lb/></titlePart>
             <titlePart>Secret History<ref target="a001" corresp="n001"/><note xml:id="n001"
+               target="a001" type="editorial" resp="TH">While there are many critical understandings of the secret history in literature, <ref target="https://books.google.com/books?id=h3iJDgAAQBAJ">as the essays in <hi rend="italic">The Secret History in Literature: 1660-1820</hi> (2017)</ref>, the genre usually offers a glimpse into the secret lives of public individuals. In the amatory tradition of <hi rend="italic">Fantomina</hi>, this "private" side is typically filled with sexual or political intrigue.</note><lb/></titlePart>
             <titlePart>OF AN<lb/></titlePart>
             <titlePart>AMOUR<lb/></titlePart>
             <titlePart>Between Two<lb/></titlePart>
             <titlePart>PERSONS OF CONDITION.<lb/></titlePart>
             <titlePart>By Mrs. ELIZA HAYWOOD.<ref target="a002" corresp="n002"/><note xml:id="n002"
-                  target="a002" type="editorial" resp="TH"><graphic
-                     url="https://upload.wikimedia.org/wikipedia/commons/2/25/Eliza-haywood.jpg"
-                  />Eliza Haywood (c.1693-1756) was a prolific author, actor, and publisher of the
+               target="a002" type="editorial" resp="TH"><graphic style="float:right"
+                     url="https://upload.wikimedia.org/wikipedia/commons/2/25/Eliza-haywood.jpg"/>Eliza Haywood (c.1693-1756) was a prolific author, actor, and publisher of the
                   early- to mid-eighteenth century. She is most famous, today, for her novels and
                   novellas, among which <hi rend="italic">Fantomina</hi>is numbered. The image
                   included here, <ref
@@ -205,8 +205,7 @@
                <publisher>Printed for <persName>D. BROWNE jun</persName>. at the
                      <placeName>Black-Swan<lb/> without Temple-Bar</placeName>, and <persName>S.
                      CHAPMAN</persName>, <placeName>at<lb/> the Angel in
-                  Pallmall</placeName>.</publisher><ref target="a004" corresp="n004"/><note
-                  xml:id="n004" target="a004" type="editorial" resp="TH">Note about publisher</note>
+                  Pallmall</placeName>.</publisher>
                <date>M.DCC.XXV.</date><lb/></docImprint>
 
 
@@ -215,11 +214,11 @@
       </front>
       <body>
          <div>
-            <pb n="[257]" facs="images/HF-257.jpg"/>
+            <pb n="[257]" />
             <head>FANTOMINA:<lb/> OR,<lb/> LOVE in a Maze.<lb/></head>
             <p> A YOUNG Lady of distinguished Birth, Beauty, Wit, and Spirit, happened to be in a
                   Box<ref target="a005" corresp="n005"/><note xml:id="n005" target="a005"
-                  type="editorial" resp="TH"><graphic
+                  type="editorial" resp="TH"><graphic style="float:right"
                      url="http://www.vam.ac.uk/__data/assets/image/0008/183473/2006ac5629_the_rio_during_artaxerxes.jpg"
                   />Playhouses during the seventeenth and eighteenth centuries in England organized
                   seating according to price and social status. Boxes were the most expensive of
@@ -246,9 +245,9 @@
                   men and women. The activity of the audience in the pit and the behaviour of the
                   occupants of the boxes, especially with the King present, were part of the
                   theatregoing spectacle." Prostitutes, wits, and rakes frequented the pit and the
-                  middle galleries. For more information, see Douglas Canfield's introduction to <hi
+                  middle galleries. For more information, see <ref target="https://books.google.com/books?id=2wQIt3g46CcC">Douglas Canfield's introduction to <hi
                      rend="italics">The Broadview Anthology of Restoration and Early
-                     Eighteenth-Century Drama</hi> (vxiii).</note>, and, by her Air and Manner of
+                     Eighteenth-Century Drama</hi></ref> (vxiii).</note>, and, by her Air and Manner of
                receiving them, might easily be known to be one of those who come there for no other
                Purpose, than to create Acquaintance with as many as seem desirous of it. She could
                not help testifying her Contempt of Men, who, regardless either of the Play, or
@@ -258,7 +257,7 @@
                Thing very deeply, took but little Notice of it. She still thought of it, however;
                and the longer she reflected on it, the greater was her Wonder, that Men, some of
                whom she knew were accounted to have Wit, should have Tastes so <pb n="258"
-                  facs="images/HF-258.jpg"/> very Depraved. – This excited a Curiosity in her to
+                  /> very Depraved. – This excited a Curiosity in her to
                know in what Manner these Creatures were address'd:– She was young, a Stranger to the
                World, and consequently to the Dangers of it; and having no Body in Town, at that
                Time, to whom she was oblig'd to be accountable for her Actions, did in every Thing
@@ -312,7 +311,7 @@
                      >this review of Jeremy Musson's <hi rend="italic">Drawing
                   Room</hi></ref>.</note>, had talk'd with him; but then her Quality and reputed
                Virtue kept him from using her with that Freedom she now expected he wou'd <pb
-                  n="259" facs="images/HF-259.jpg"/> do, and had discover'd something in him, which
+                  n="259" /> do, and had discover'd something in him, which
                had made her often think she shou'd not be displeas'd, if he wou'd abate some Part of
                his Reserve. – Now was the Time to have her Wishes answer'd: – He look'd in her Face,
                and fancy'd, as many others had done, that she very much resembled that Lady whom she
@@ -349,7 +348,7 @@
                part from her without the Gratifications of those Desires she had inspir'd; and
                presuming on the Liberties which her suppos'd Function allow'd off, told her she must
                either go with him to some convenient House of his procuring, or permit him to wait
-               on her to her own <pb n="260" facs="images/HF-260.jpg"/> Lodgings. – Never had she
+               on her to her own <pb n="260" /> Lodgings. – Never had she
                been in such a Dilemma: Three or four Times did she open her Mouth to confess her
                real Quality;<ref target="a015" corresp="n015"/><note xml:id="n015" target="a015"
                   type="editorial" resp="TH">"Quality" is a difficult concept to grasp; in the
@@ -367,8 +366,8 @@
                not to render him unhappy the next. She gave a solemn Promise to be in the same Box
                on the Morrow Evening; and they took Leave of each other; he to the Tavern to drown
                the Remembrance of his Disappointment; she in a Hackney-Chair<ref target="a016"
-                  corresp="n0161"/><note xml:id="n016" target="a016" type="editorial" resp="TH"
-                     ><graphic width="300px"
+                  corresp="n016"/><note xml:id="n016" target="a016" type="editorial" resp="TH"
+                     ><graphic style="float:right" width="300px"
                      url="https://media.vam.ac.uk/media/thira/collection_images/2014GW/2014GW5284_jpg_ds.jpg"
                   />A hackney or sedan chair was a hireable mode of transportation that consisted of
                   a single enclosed seat carried, on poles, by two strong men. It was small enough
@@ -398,7 +397,7 @@
                   target="a018" type="editorial" resp="TH">From the French word for duty, "devoirs"
                   are dutiful addresses paid to someone out of respect or courtesy. See sense 4 in
                   the OED.</note> as a Town-Mistress, imagining a world of Satisfaction to herself
-               in engaging him in the Character <pb n="261" facs="images/HF-261.jpg"/> of such a
+               in engaging him in the Character <pb n="261" /> of such a
                one, and in observing the Surprise he would be in to find himself refused by a Woman,
                who he supposed granted her Favours without Exception. – Strange and unaccountable
                were the Whimsies she was possess'd of, – wild and incoherent her Desires, – unfix'd
@@ -445,7 +444,7 @@
                   use the servants who work consistently at the house. Here, we learn that Fantomina
                   did not bring her own servant, but drew on the services of those from whom she
                   rented.</note>, to provide a very handsome Supper, and Wine, and every Thing was
-                  <pb n="262" facs="images/HF-262.jpg"/> serv'd to Table in a Manner which shew'd
+                  <pb n="262" /> serv'd to Table in a Manner which shew'd
                the Director neither wanted Money, nor was ignorant how it shou'd be laid out.</p>
 
             <p> THIS Proceeding, though it did not take from him the Opinion that she was what she
@@ -475,7 +474,7 @@
                she told him, that she was a Virgin, and had assumed this Manner of Behaviour only to
                engage him. But that he little regarded, or if he had, would have been far from
                obliging him to desist; – nay, in the present burning Eagerness of Desire, 'tis
-               probable, that had he been <pb n="263" facs="images/HF-263.jpg"/> acquainted both
+               probable, that had he been <pb n="263" /> acquainted both
                with who and what she really was, the Knowledge of her Birth would not have
                influenc'd him with Respect sufficient to have curb'd the wild Exuberance of his
                luxurious Wishes, or made him in that longing, – that impatient Moment, change the
@@ -500,7 +499,7 @@
                   Can all the Wealth you are possessed of, make a Reparation for my Loss of Honour?
                   – Oh! no, I am undone beyond the Power of Heaven itself to help me!</said> – She
                uttered many more such Exclamations; which the amaz'd Beauplaisir heard without being
-               able to reply to, till by Degrees sinking <pb n="264" facs="images/HF-264.jpg"/> from
+               able to reply to, till by Degrees sinking <pb n="264" /> from
                that Rage of Temper, her Eyes resumed their softning Glances, and guessing at the
                Consternation he was in, <said>No, my dear Beauplaisir, (added she,) your Love alone
                   can compensate for the Shame you have involved me in; be you sincere and constant,
@@ -533,7 +532,7 @@
                Beginning of her Conduct, but that in the End she would be in Reality, the Thing she
                so artfully had counterfeited; and had good Nature enough to pity the Misfortunes he
                imagin'd would be her Lot: But to tell her so, or offer his Advice in that Point, was
-               not his Business, as least, as yet. <pb n="265" facs="images/HF-265.jpg"/></p>
+               not his Business, as least, as yet. <pb n="265" /></p>
 
             <p> THEY parted not till towards Morning; and she oblig'd him to a willing Vow of
                visiting her the next Day at Three in the Afternoon. It was too late for her to go
@@ -561,7 +560,7 @@
                repaired to the other, where she easily excused to an unsuspecting Aunt, with whom
                she boarded, her having been abroad all Night, saying, she went with a Gentleman and
                his Lady in a Barge<ref target="a025" corresp="n025"/><note xml:id="n025"
-                  target="a025" type="editorial" resp="TH"><graphic width="300px"
+                  target="a025" type="editorial" resp="TH"><graphic style="float:right" width="300px"
                      url="https://www.rct.uk/sites/default/files/styles/rctr-scale-1300-500/public/collection-online/e/3/255748-1330621559.jpg"
                   />The river Thames was a source of work, pleasure, and transportation in the
                   eighteenth century; it connected many significant country towns to London, and
@@ -580,7 +579,7 @@
                all, but where it was most needful. – She had Discernment to forsee, and avoid all
                those Ills which might attend the Loss of her Reputation, but was wholly blind to
                those of the Ruin of her Virtue; and having managed her Affairs so as to secure the
-               one, grew perfectly easy with the Remembrance, <pb n="266" facs="images/HF-265.jpg"
+               one, grew perfectly easy with the Remembrance, <pb n="266" 
                />she had forfeited the other. – The more she reflected on the Merits of Beauplaisir,
                the more she excused herself for what she had done; and the Prospect of that
                continued Bliss she expected to share with him, took from her all Remorse for having
@@ -613,14 +612,14 @@
                   specific to a profession or activity. See the OED senses 1 and 2.</note>, and in
                another Place. – Slippers, and a Nightgown loosely flowing, has been the Garb in
                which he has left the languishing Fantomina; – Lac'd, and <pb n="267"
-                  facs="images/HF-267.jpg"/> adorn'd with all the Blaze of Jewels, has he, in less
+                  /> adorn'd with all the Blaze of Jewels, has he, in less
                than an Hour after, beheld at the Royal Chapel<ref target="a028" corresp="n028"
                   /><note xml:id="n028" target="a028" type="editorial" resp="TH">Fantomina here
                   likely refers to the Chapel Royal at St. James's Palace. During the Georgian period,
                   the Chapel Royal became "a significant cultural centre." For more information on
                   the Chapel Royal, see <ref target="http://www.royalhistorian.com/the-chapel-royal-at-st-jamess-palace-from-king-henry-viii-to-prince-george-of-cambridge/">this article by Carolyn Harris.</ref></note>,
                the Palace Gardens<ref target="a029" corresp="n029"/><note xml:id="n029"
-                  target="a029" type="editorial" resp="TH"><graphic width="300px"
+                  target="a029" type="editorial" resp="TH"><graphic style="float:right" width="300px"
                      url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kip_St_James%27s_Palace_and_Park.jpg"
                   />The palace gardens at St. James's Palace, which was the primary royal residence
                   until early nineteenth century, are pictured in the bird's eye plan by Jan Kip
@@ -630,7 +629,7 @@
                      >the 1745 painting of St. James's Park and the Mall, by Joseph Nickolls,
                      discussed here.</ref></note>, Drawing-Room, Opera<ref target="a030"
                   corresp="n030"/><note xml:id="n030" target="a030" type="editorial" resp="TH"
-                     ><graphic width="300px"
+                     ><graphic style="float:right" width="300px"
                      url="http://www.vam.ac.uk/__data/assets/image/0008/183473/2006ac5629_the_rio_during_artaxerxes.jpg"
                   />Opera became extraordinarily fashionable during the eighteenth century. Read
                   more about the history of opera during the period <ref
@@ -665,7 +664,7 @@
                which Women make use of in such Cases, have little Prevailence over a Heart inclin'd
                to rove, and only serve to render those who practice them more contemptible, by
                robbing them of that Beauty which alone can bring back the <pb n="268"
-                  facs="images/HF-268.jpg"/> fugitive Lover, she resolved to take another Course;
+                  /> fugitive Lover, she resolved to take another Course;
                and remembring the Height of Transport she enjoyed when the agreeable Beauplaisir
                kneel'd at her Feet, imploring her first Favours, she long'd to prove the same again.
                Not but a Woman of her Beauty and Accomplishments might have beheld a Thousand in
@@ -696,7 +695,7 @@
                   London to Bath during this period would have taken at least two days. </note>, in
                which Equipage she arriv'd at Bath. The Dress she was in, was a round-ear'd Cap<ref
                   target="a035" corresp="n035"/><note xml:id="n035" target="a035" type="editorial"
-                  resp="TH"><graphic width="300px"
+                  resp="TH"><graphic style="float:right" width="300px"
                      url="https://media.vam.ac.uk/media/thira/collection_images/2006AV/2006AV6330_jpg_l.jpg"
                   />According to <ref
                      target="https://www.bloomsburyfashioncentral.com/products/berg-fashion-library/dictionary/the-dictionary-of-fashion-history/round-eared-cap"
@@ -717,7 +716,7 @@
                known, or taken for any other than what she seem'd. Thus disguis'd did she offer
                herself to Service in the House where Beauplaisir lodg'd, having made it her Business
                to find out immediately where he was. Notwithstanding this Metamorphosis <pb n="269"
-                  facs="images/HF-269.jpg"/> she was still extremely pretty; and the Mistress of the
+                  /> she was still extremely pretty; and the Mistress of the
                House happening at that Time to want a Maid<ref target="a037" corresp="n037"/><note
                   xml:id="n037" target="a037" type="editorial" resp="TH">A maidservant was one of
                   the lowest-paid members of a domestic household, though others--like scullery
@@ -734,7 +733,7 @@
                Exploit was extremely on her side; there were no others of the Male-Sex in the House,
                than an old Gentleman, who had lost the Use of his Limbs with the Rheumatism, and had
                come thither for the Benefit of the Waters<ref target="a038" corresp="n038"/><note
-                  xml:id="n038" target="a038" type="editorial" resp="TH"><graphic width="300px"
+                  xml:id="n038" target="a038" type="editorial" resp="TH"><graphic style="float:right" width="300px"
                      url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Thomas_Rowlandson_-_Comforts_of_Bath-_The_Pump_Room_-_Google_Art_Project.jpg/1600px-Thomas_Rowlandson_-_Comforts_of_Bath-_The_Pump_Room_-_Google_Art_Project.jpg"
                   />Througout the eighteenth century, Bath--known for its thermal springs--became a
                   fashionable place to relax and "take the waters." <ref
@@ -762,7 +761,7 @@
                he must enjoy her, though Death were to be the Consequence, devour'd her Lips, her
                Breasts with greedy Kisses, held to his burning Bosom her half-yielding,
                half-reluctant Body, nor suffered her to get loose, <pb n="270"
-                  facs="images/HF-270.jpg"/> till he had ravaged all, and glutted each rapacious
+                  /> till he had ravaged all, and glutted each rapacious
                Sense with the sweet Beauties of the pretty Celia<ref target="a039" corresp="n039"
                   /><note xml:id="n039" target="a039" type="editorial" resp="TH">Celia is a generic
                   pastoral female name.</note>, for that was the Name she bore in this second
@@ -786,7 +785,7 @@
                Disguise to carry on a third Plot, which her inventing Brain had furnished her with,
                once more to renew his twice-decay'd Ardours. The Dress she had order'd to be made,
                was such as Widows wear in their first Mourning<ref target="a041" corresp="n041"
-                  /><note xml:id="n041" target="a041" type="editorial" resp="TH"><graphic
+                  /><note xml:id="n041" target="a041" type="editorial" resp="TH"><graphic style="float:right"
                      width="300px"
                      url="http://www.historicalportraits.co.uk/Artworkimages/Zincke%20Lady%20Strange%203188%20Z.jpg"
                   />In this enamel miniature portrait c.1710, via Philip Mould and Company,<ref
@@ -806,7 +805,7 @@
                   of the cap.</note> coming so very forward, that there was none of it to be seen.
                In fine, her Habit and her Air were so much chang'd, that she was not more difficult
                to be known in the rude Country Girl, than she was now in the sorrowful Widow. <pb
-                  n="271" facs="images/HF-271.jpg"/></p>
+                  n="271" /></p>
 
             <p> SHE knew that Beauplaisir came alone in his Chariot to the Bath, and in the Time of
                her being Servant in the House where he lodg'd, heard nothing of any Body that was to
@@ -835,7 +834,7 @@
                   in out-living him, I must so far obey the Dictates of my Discretion, as to take
                   care of the little Fortune he left behind him, which being in the hands of a
                   Brother of his in London, will be all carried off to Holland, where he is going to
-                  settle; if I reach not the Town before <pb n="272" facs="images/HF-272.jpg"/>he
+                  settle; if I reach not the Town before <pb n="272" />he
                   leaves it, I am undone for ever. – To which End I left Bristol<ref target="a043"
                      corresp="n043"/><note xml:id="n043" target="a043" type="editorial" resp="TH"
                      >Bristol is a port town about 15 miles west of Bath.</note>, the Place where we
@@ -876,7 +875,7 @@
                Sorrow, might not also be so too of Love; and having begun a Discourse on almost
                every other Topick, and finding her still incapable of answering, resolv'd to put it
                to the Proof, if this would have no more Effect to rouze her sleeping Spirits: – With
-               a gay Air, therefore, though accompany'd with <pb n="273" facs="images/HF-273.jpg"/>
+               a gay Air, therefore, though accompany'd with <pb n="273" />
                the greatest Modesty and Respect, he turned the Conversation, as though without
                Design, on that Joy-giving Passion, and soon discover'd that was indeed the Subject
                she was best pleas'd to be entertained with; for on his giving her a Hint to begin
@@ -902,7 +901,7 @@
                protesting he would gladly exchange Passions with her, and be content to bear her
                Load of Sorrow, if she would as willingly ease the Burden of his Love. – She said
                little in answer to the strenuous Pressures with which at last he <pb n="274"
-                  facs="images/HF-274.jpg"/> ventur'd to enfold her, but not thinking it Decent, for
+                  /> ventur'd to enfold her, but not thinking it Decent, for
                the Character she had assum'd, to yield so suddenly, and unable to deny both his and
                her own Inclinations, she counterfeited a fainting, and fell motionless upon his
                Breast. – He had no great Notion that she was in a real Fit, and the Room they supp'd
@@ -931,7 +930,7 @@
                so much as enter'd his Head, and though he did fancy he observed in the Face of the
                latter, Features which were not altogether unknown to him, yet he could not recollect
                when or where he had known them; – and being told by her, that from her Birth, she
-               had <pb n="275" facs="images/HF-275.jpg"/> never remov'd from Bristol, a Place where
+               had <pb n="275" /> never remov'd from Bristol, a Place where
                he never was, he rejected the Belief of having seen her, and suppos'd his Mind had
                been deluded by an Idea of some other, whom she might have a Resemblance of.</p>
 
@@ -964,7 +963,7 @@
                      that Infinity of Transport, the Sight of your dear Letter gave me. – Never was
                      Woman form'd to charm like you: Never did any look like you, – write like you,
                      – bless like you; – nor did ever Man adore as I do. – Since <pb n="276"
-                        facs="images/HF-276.jpg"/> Yesterday we parted, I have seem'd a Body without
+                        /> Yesterday we parted, I have seem'd a Body without
                      a Soul; and had you not by this inspiring Billet, gave me new Life, I know not
                      what by To-morrow I should have been. – I will be with you this Evening about
                      Five: – O, 'tis an Age till then! – But the cursed Formalities of Duty oblige
@@ -996,7 +995,13 @@
                      languish'd to renew those Blessings I am permitted to enjoy in your Society,
                      you would rather pity than condemn</p>
 
+                  <closer>Your ever faithful,
+                     <signed>BEAUPLAISIR.</signed></closer>
+               
+                     <pb n="277" />
+               <postscript><p>P.S. I fear I cannot see you till
                      To-morrow; some Business has unluckily fallen out that will engross my Hours
+                     till then. – Once more, my Dear, Adieu.</p></postscript>
                </body>
             </floatingText>
 
@@ -1028,11 +1033,11 @@
                could not be a Difference in Merit, because they were the same Person; but the Widow
                Bloomer was a more new Acquaintance than Fantomina, and therefore esteem'd more
                valuable. This, indeed, must be said of Beauplaisir, that he had a <pb n="278"
-                  facs="images/HF-278.jpg"/> greater Share of good Nature than most of his Sex, who,
+                  /> greater Share of good Nature than most of his Sex, who,
                for the most part, when they are weary of an Intreague, break it entirely off,
                without any Regard to the Despair of the abandon'd Nymph<ref target="a049"
                   corresp="n049"/><note xml:id="n049" target="a049" type="editorial" resp="TH"
-                     ><graphic width="300px"
+                     ><graphic style="float:right" width="300px"
                      url="https://images.metmuseum.org/CRDImages/dp/original/DP826799.jpg"/>A
                   "nymph" is a mythological nature spirit, usually depicted as a young woman
                   disporting, semi-nude, in woodlands or near water. The word is often used
@@ -1079,7 +1084,7 @@
                      Restoration Views of St James Park"</ref>.</note> about the Hour when there are
                a great many necessitous Gentlemen, who think themselves above doing what they call
                little Things for a Maintenance, walking in the Mall<ref target="a052" corresp="n052"
-                  /><note xml:id="n052" target="a052" type="editorial" resp="TH"><graphic
+                  /><note xml:id="n052" target="a052" type="editorial" resp="TH"><graphic style="float:right"
                      width="300px"
                      url="https://upload.wikimedia.org/wikipedia/commons/f/f6/St_James%27s_Park_mall1745.jpg"
                   />The Mall here refers not to a shopping center but a wide path for walking or
@@ -1108,12 +1113,13 @@
                      target="http://blogs.getty.edu/iris/physiognomy-the-beautiful-pseudoscience/"
                      >"Physiognomy, the Beautiful Pseudo-Science"</ref>. For a fuller scholarly
                   assessment, see <ref
+                     target="https://www.tandfonline.com/doi/full/10.1080/14780038.2017.1290998"
                      >Kathryn Woods's "‘Facing’ Identity in a ‘Faceless’ Society: Physiognomy,
                      Facial Appearance and Identity Perception in Eighteenth-Century
                   London"</ref>.</note> she thought most proper for her Purpose, she beckon'd to
                come to her; and taking them into a Walk more remote from Company, began to
                communicate the Business she had with them in these Words: <said>I am sensible,
-                  Gentlemen, <pb n="279" facs="images/HF-279.jpg"/>(said she,) that, through the
+                  Gentlemen, <pb n="279" />(said she,) that, through the
                   blindness of Fortune, and Partiality of the World, Merit frequently goes
                   unrewarded, and that those of the best Pretentions meet with the least
                   Encouragement: – I ask your Pardon, (continued she,) perceiving they seem'd
@@ -1140,13 +1146,13 @@
                meet her in the same Place at an hour she appointed. 'Tis hard to say, which of these
                Parties went away best pleas'd; they, that Fortune had sent them so unexpected a
                Windfall; or she, that she had found Persons, who appeared so well qualified to serve
-               her. <pb n="280" facs="images/HF-280.jpg"/></p>
+               her. <pb n="280" /></p>
 
             <p> INDEFATIGABLE in the Pursuit of whatsoever her Humour was bent upon, she had no
                sooner left her new-engag'd Emissaries, than she went in search of a House for the
                compleating her Project. – She pitch'd on one very large, and magnificently
                furnished, which she hir'd by the Week<ref target="a055" corresp="n055"/><note
-                  xml:id="n055" target="a055" type="editorial" resp="TH"><graphic width="300px"
+                  xml:id="n055" target="a055" type="editorial" resp="TH"><graphic style="float:right" width="300px"
                      url="https://i.ytimg.com/vi/Ps4lGG0I9zw/maxresdefault.jpg"/>As Incognita,
                   Fantomina would have rented what <ref
                      target="https://quod.lib.umich.edu/e/ecco/004859210.0001.000/1:7?rgn=div1;view=fulltext"
@@ -1167,7 +1173,7 @@
                repaired to the Park, where she met the punctual 'Squires of low Degree; and ordering
                them to follow her to the House she had taken, told them they must condescend to
                appear like Servants, and gave each of them a very rich Livery<ref target="a056"
-                  corresp="n056"/><note xml:id="n056" target="a056" type="editorial" resp="TH"><graphic url="https://www.history.org/history/clothing/designcenter/timeline/photos/2002-1.jpg" width="300px"/>Livery is the term given to the uniform worn by a household servant. In this image, showing a formal ball entrance reconstructed at Colonial Williamsburg, the two flanking servants are wearing the livery of the house (via <ref target="https://www.history.org/history/clothing/designcenter/timeline/">Colonial Williamsburg Foundation</ref>).</note>. Then writing a Letter to Beauplaisir, in a Character vastly
+                  corresp="n056"/><note xml:id="n056" target="a056" type="editorial" resp="TH"><graphic style="float:right" url="https://www.history.org/history/clothing/designcenter/timeline/photos/2002-1.jpg" width="300px"/>Livery is the term given to the uniform worn by a household servant. In this image, showing a formal ball entrance reconstructed at Colonial Williamsburg, the two flanking servants are wearing the livery of the house (via <ref target="https://www.history.org/history/clothing/designcenter/timeline/">Colonial Williamsburg Foundation</ref>).</note>. Then writing a Letter to Beauplaisir, in a Character vastly
                different from either of those she had made use of, as Fantomina, or the fair Widow
                Bloomer, order'd one of them to deliver it into his own Hands, to bring back an
                Answer, and to be careful that he sifted out nothing of the Truth. – <said>I do not
@@ -1181,12 +1187,13 @@
                made what haste he could to the House of Beauplaisir; and being there told where he
                might find him, perform'd exactly the Injunction that had been given him. But never
                Astonishment exceeding that which Beauplaisir felt at the reading this Billet, in
-               which he found these Lines: <pb n="281" facs="images/HF-281.jpg"/></p>
+               which he found these Lines: <pb n="281" /></p>
 
 
 
             <floatingText>
                <body>
+                  <opener>To the All-conquering BEAUPLAISIR.</opener>
 
                   <p> I imagine not that 'tis a new Thing to you, to be told, you are the greatest
                      Charm in Nature to our Sex: I shall therefore, not to fill up my Letter with
@@ -1209,6 +1216,9 @@
                      Measures to commence a Friendship with you, is neither Old, nor Deform'd. Till
                      then I am,</p>
 
+                  <closer>Yours, 
+                     <signed>INCOGNITA.</signed><ref target="a057" corresp="n057"/><note xml:id="n057"
+                           target="a057" type="editorial" resp="TH">Incognita is a feminine form of the Italian "incognito," meaning one who is unknown or in disguise (OED).</note></closer>
                </body>
             </floatingText>
 
@@ -1216,7 +1226,7 @@
 
             <p> HE had scarce come to the Conclusion, before he ask'd the Person who brought it,
                from what Place he came; – the Name of the Lady he serv'd; – <pb n="282"
-                  facs="images/HF-282.jpg"/> if she were a Wife, or Widow, and several other
+                  /> if she were a Wife, or Widow, and several other
                Questions directly opposite to the Directions of the Letter; but Silence would have
                avail'd him as much as did all those Testimonies of Curiosity: No Italian Bravo,
                employ'd in a Business of the like Nature, perform'd his Office with more Artifice;
@@ -1246,11 +1256,13 @@
                      set me, till by the Knowledge of my inviolable Fedility, I may be thought
                      worthy of gazing on that Heaven I am now but to enjoy in Contemplation. – You
                      need not doubt my glad Compliance with your obliging Summons: <pb n="283"
-                        facs="images/HF-283.jpg"/> There is a Charm in your Lines, which gives too
+                        /> There is a Charm in your Lines, which gives too
                      sweet an Idea of their lovely Author to be resisted. – I am all impatient for
                      the blissful Moment, which is to throw me at your Feet, and give me an
                      Opportunity of convincing you that I am,</p>
 
+                  <closer>Your everlasting Slave, 
+                     <signed>BEAUPLAISIR.</signed></closer>
                </body>
             </floatingText>
 
@@ -1274,9 +1286,9 @@
                   easy, weeping, wailing Sex!</said> Thus did she pride herself as if secure she
                never should have any Reason to repent the present Gaiety of her Humour. The Hour
                drawing near in which he was to come, she dress'd herself in as magnificent a Manner,
-               as if she were to be that Night <pb n="284" facs="images/HF-284.jpg"/> at a Ball at
+               as if she were to be that Night <pb n="284" /> at a Ball at
                   Court<ref target="a058" corresp="n058"/><note xml:id="n058" target="a058"
-                  type="editorial" resp="TH"><graphic
+                  type="editorial" resp="TH"><graphic style="float:right"
                      url="https://collections.museumoflondon.org.uk/mol/mediaLib/236/617/83_531_va.jpg"
                      width="300px"/>Court dress for both women and men was both political and
                   sumptuous, some of which can be seen in the accompanying image, showing an
@@ -1291,7 +1303,7 @@
                      "Faction and Fashion : The Politics of Court Dress in Eighteenth-Century
                      England."</ref></note>, endeavouring to repair the want of those Beauties which
                the Vizard<ref target="a059" corresp="n059"/><note xml:id="n059" target="a059"
-                  type="editorial" resp="TH"><graphic
+                  type="editorial" resp="TH"><graphic style="float:right"
                      url="https://neiljeffares.files.wordpress.com/2018/02/nattier-mme-royer.jpg"
                      width="300px"/>A "vizard" is a black velvet mask worn by elite women in the
                   Renaissance to protect the skin from sunburn. It became a fashionable accoutrement
@@ -1329,7 +1341,7 @@
                imaginable to the Happiness of them both: She was not to be perswaded, and he was
                oblig'd to desist his Solicitations, though determin'd in his Mind to compass what he
                so ardently desir'd, before he left the House. He then turned the Discourse wholly on
-               the Violence of <pb n="285" facs="images/HF-285.jpg"/> the Passion he had for her;
+               the Violence of <pb n="285" /> the Passion he had for her;
                and express'd the greatest Discontent in the World at the Apprehensions of being
                separated; – swore he could dwell for ever in her Arms, and with such an undeniable
                Earnestness pressed to be permitted to tarry with her the whole Night, that had she
@@ -1362,7 +1374,7 @@
                that she would not have been able to resist yielding to, if she had not been certain
                it would have been the Ruin of her Passion: – She, therefore, answered him only as
                she had done before; and getting out of the Bed from him, <pb n="286"
-                  facs="images/HF-286.jpg"/> flew out of the Room with too much Swiftness for him to
+                  /> flew out of the Room with too much Swiftness for him to
                have overtaken her, if he had attempted it. The Moment she left him, the two
                Attendants enter'd the Chamber, and plucking down the Implements which had skreen'd
                him from the Knowledge of that which he so much desir'd to find out, restored his
@@ -1388,7 +1400,7 @@
                Visits he sometimes made to each; but his Behaviour to both was grown so cold, that
                she began to grow as weary of receiving his now insipid Caresses as he was of
                offering them: She was beginning to think in what Manner she <pb n="287"
-                  facs="images/HF-287.jpg"/> should drop these two Characters, when the sudden
+                  /> should drop these two Characters, when the sudden
                Arrival of her Mother, who had been some Time in a foreign Country, oblig'd her to
                put an immediate Stop to the Course of her whimsical Adventures. – That Lady, who was
                severely virtuous, did not approve of many Things she had been told of the Conduct of
@@ -1405,7 +1417,7 @@
                herself, as she did before the coming of her Mother, yet now all her Invention was at
                a Loss for a Stratagem to impose on a Woman of her Penetration: – By eating little,
                lacing prodigious strait<ref target="a061" corresp="n061"/><note xml:id="n061"
-                  target="a061" type="editorial" resp="TH"><graphic
+                  target="a061" type="editorial" resp="TH"><graphic style="float:right"
                      url="https://media.vam.ac.uk/media/thira/collection_images/2006BB/2006BB0967_jpg_l.jpg"
                      width="300px"/>Lacing here refers to the lacing up of the stays, a shaping
                   undergarment <ref
@@ -1416,14 +1428,16 @@
                      target="https://books.google.com/books?id=uk6I0-MDXVQC">were the visible sign
                      of strict morality" (26)</ref>.</note>, and the Advantage of a great
                   Hoop-Petticoat<ref target="a062" corresp="n062"/><note xml:id="n062" target="a062"
-                  type="editorial" resp="TH"><graphic
+                  type="editorial" resp="TH"><graphic style="float:right"
                      url="https://images.metmuseum.org/CRDImages/ci/original/CI65.13.1a%E2%80%93c_Fv2.jpg"
                      width="300px"/>Throughout the seventeenth and eighteenth centuries, women's
                   formal fashion was characterized by the exaggerated bell shape created by the hoop
                   petticoat, <ref target="http://collections.vam.ac.uk/item/O1318194/hoop-unknown/"
                      >an example of which can be seen in the Victoria and Albert Museum's digital
                      collections</ref>. By 1750, the hoop petticoat could be as large as 1.5 meters
+                  in diameter, and with the addition of panniers, court dress like
                      that which Fantomina is described as wearing--and which the included image
+                     shows--could be notably voluminous.</note>, however, her Bigness was not
                taken notice of, and, perhaps, she would not have been suspected till the Time of her
                going into the Country, where her Mother design'd to send her, and from whence she
                intended to make her escape to some Place where she might be delivered with Secrecy,
@@ -1432,7 +1446,7 @@
                Farewel to the Town. – It was there she was seiz'd with those Pangs, which none in
                her Condition are exempt from: – She could not conceal the sudden Rack which all at
                once invaded her; or had her Tongue been mute, her wildly rolling Eyes, the
-               Distortion of her Features, and the Convulsions <pb n="288" facs="images/HF-288.jpg"
+               Distortion of her Features, and the Convulsions <pb n="288" 
                />which shook her whole Frame, in spite of her, would have reveal'd she labour'd
                under some terrible Shock of Nature. – Every Body was surpris'd, every Body was
                concern'd, but few guessed at the Occasion. – Her Mother griev'd beyond Expression,
@@ -1466,9 +1480,9 @@
                Mother, than that sorrowful Lady sent Messengers at the same Time, for a Midwife, and
                for that Gentleman who had occasion'd the other's being wanted. – He happen'd by
                Accident to be at home, and immediately obey'd the Summons, though prodigiously <pb
-                  n="289" facs="images/HF-289.jpg"/> surpris'd what Business a Lady so much a
+                  n="289" /> surpris'd what Business a Lady so much a
                Stranger to him could have to impart. – But how much greater was his Amazement, when
-               taking him into her Closet, she there acquainted him with her Daughter's Misfortune,
+               taking him into her Closet<ref target="a063a" corresp="n063a"/><note xml:id="n063a" target="a063a" resp="TH"><graphic style="float:right" url="https://english.illinoisstate.edu/digitaldefoe/teaching/bobker/1GreenCloset.png" width="300px"/>In the eighteenth century, a "closet" was a small office or private room leading off of a bedroom; here, individuals would conduct business, write letters, read, or converse with close acquaintances. It was not used to store clothes. For more information, see <hi rend="italic">Daily Life in 18th-Century England</hi> (85-86), or <ref target="https://english.illinoisstate.edu/digitaldefoe/teaching/bobker/overview.html">Danielle Bobker's "Literature and Culture of the Closet in the Eighteenth Century,"</ref> from which site the accompanying image, showing the Green Closet at Frogmore, has been drawn.</note>, she there acquainted him with her Daughter's Misfortune,
                of the Discovery she had made, and how far he was concern'd in it? – All the Idea one
                can form of wild Astonishment, was mean to what he felt: – He assur'd her, that the
                young Lady her Daughter was a Person who he had never, more than at a Distance,
@@ -1480,7 +1494,7 @@
                —Beauplaisir being brought to the Bed side, was beginning to address himself to the
                Lady in it, to beg she would clear the Mistake her Mother was involv'd in; when she,
                covering herself with the Cloaths, and ready to die a second Time with the inward
-               Agitations of her Soul, shriek'd out, O<said>h, I am undone! – I cannot live, and
+               Agitations of her Soul, shriek'd out, <said>Oh, I am undone! – I cannot live, and
                   bear this Shame</said>! – But the old Lady believing that now or never was the
                Time to dive into the Bottom of this Mystery, forcing her to rear her Head, told her,
                she should not hope to Escape the Scrutiny of a Parent she had dishonour'd in such a
@@ -1489,7 +1503,7 @@
                <said>Oh! no, (resum'd the trembling Creature,) he is, indeed, the innocent Cause of
                   my Undoing: – Promise me your Pardon, (continued she,) and I will relate the
                   Means.</said> Here she ceas'd, expecting what she would reply, which, on hearing
-               Beauplaisir cry <pb n="290" facs="images/HF-290.jpg"/> out, <said>What mean you
+               Beauplaisir cry <pb n="290" /> out, <said>What mean you
                   Madam? I your Undoing, who never harbour'd the least Design on you in my
                   Life,</said> she did in these Words, <said>Though the Injury you have done your
                   Family, (said she,) is of a Nature which cannot justly hope Forgiveness, yet be
@@ -1513,7 +1527,7 @@
                to visit there, to enquire after her Health every Day; but the old Lady perceiving
                there was nothing likely to ensue from these Civilities, but, perhaps, a Renewing of
                the Crime, she entreated him to refrain; and as soon as <pb n="291"
-                  facs="images/HF-291.jpg"/> her Daughter was in a Condition, sent her to a
+                  /> her Daughter was in a Condition, sent her to a
                Monastery in France, the Abbess of which had been her particular Friend<ref
                   target="a064" corresp="n064"/><note xml:id="n064" target="a064" type="editorial"
                   resp="TH">The role of the French convent in English literary and cultural
@@ -1535,7 +1549,7 @@
                considering the Time it lasted, was as full of Variety as any, perhaps, that many
                Ages has produced.</p>
 
-            <p> FINIS.</p>
+            <trailer>FINIS.</trailer>
          </div>
       </body>
    </text>
