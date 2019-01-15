@@ -2,7 +2,7 @@
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
-            <title type="main">Fantomina; or, Love in a Maze</title>
+            <title type="main">TEST Fantomina; or, Love in a Maze</title>
             <author>
                <persName xml:id="xxx" type="lccn" key="n79008228">Haywood, Eliza Fowler</persName>
             </author>
@@ -218,7 +218,7 @@
       <body>
          <div>
             <pb n="[257]" facs="images/HF-257.jpg"/>
-            <head>Webhooks TEST FANTOMINA:<lb/> OR,<lb/> LOVE in a Maze.<lb/></head>
+            <head>FANTOMINA:<lb/> OR,<lb/> LOVE in a Maze.<lb/></head>
             <p> A YOUNG Lady of distinguished Birth, Beauty, Wit, and Spirit, happened to be in a
                   Box<ref target="a005" corresp="n005"/><note xml:id="n005" target="a005"
                   type="editorial" resp="TH"><graphic
