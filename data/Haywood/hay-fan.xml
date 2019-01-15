@@ -162,7 +162,7 @@
       <front>
          <pb n="[TP]" facs="images/HF-256.jpg"/>
          <titlePage>
-            <titlePart>T2 FANTOMINA:<lb/></titlePart>
+            <titlePart>FANTOMINA:<lb/></titlePart>
             <titlePart>OR,<lb/></titlePart>
             <titlePart>LOVE in a Maze.<lb/></titlePart>
             <titlePart>BEING A<lb/></titlePart>
@@ -218,7 +218,7 @@
       <body>
          <div>
             <pb n="[257]" facs="images/HF-257.jpg"/>
-            <head>FANTOMINA:<lb/> OR,<lb/> LOVE in a Maze.<lb/></head>
+            <head>Webhooks TEST FANTOMINA:<lb/> OR,<lb/> LOVE in a Maze.<lb/></head>
             <p> A YOUNG Lady of distinguished Birth, Beauty, Wit, and Spirit, happened to be in a
                   Box<ref target="a005" corresp="n005"/><note xml:id="n005" target="a005"
                   type="editorial" resp="TH"><graphic
